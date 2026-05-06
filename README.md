@@ -50,7 +50,7 @@ pip install -r requirements.txt
 Эксперименты проводились локально:
 
 - **CPU:** AMD Ryzen 7 9800X3D  
-- **GPU:** NVIDIA GeForce RTX 5080 (Driver 576.88, CUDA 12.9)  
+- **GPU:** NVIDIA GeForce RTX 5080 (Driver 596.36, CUDA 13.2)  
 - Среднее время одной эпохи: ~12 секунд при batch size 128.
 
 ## Ссылка на оригинальную статью
