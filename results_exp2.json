@@ -1,0 +1,37 @@
+{
+  "alpha_0.2": {
+    "alpha": 0.2,
+    "last10_mean": 89.92,
+    "last10_std": 1.04,
+    "best_accuracy": 91.32,
+    "total_time_min": 9.7
+  },
+  "alpha_0.5": {
+    "alpha": 0.5,
+    "last10_mean": 90.53,
+    "last10_std": 0.75,
+    "best_accuracy": 91.66,
+    "total_time_min": 9.6
+  },
+  "alpha_1.0": {
+    "alpha": 1.0,
+    "last10_mean": 90.34,
+    "last10_std": 0.86,
+    "best_accuracy": 91.63,
+    "total_time_min": 9.6
+  },
+  "alpha_2.0": {
+    "alpha": 2.0,
+    "last10_mean": 89.84,
+    "last10_std": 0.65,
+    "best_accuracy": 90.85,
+    "total_time_min": 9.5
+  },
+  "alpha_4.0": {
+    "alpha": 4.0,
+    "last10_mean": 88.82,
+    "last10_std": 1.08,
+    "best_accuracy": 90.03,
+    "total_time_min": 9.5
+  }
+}
