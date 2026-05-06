@@ -1,10 +1,9 @@
 # mixup: Beyond Empirical Risk Minimization — Reproduction Experiments
 
-Репозиторий с учебным проектом по разбору статьи  
+Репозиторий с проектом по разбору статьи  
+
 **mixup: Beyond Empirical Risk Minimization**  
 Hongyi Zhang et al., ICLR 2018
-
-В рамках индивидуального задания по дисциплине «Архитектура моделей глубокого обучения» воспроизводятся ключевые эксперименты статьи на датасете CIFAR-10 (архитектура PreActResNet-18).
 
 ## Структура репозитория
 
